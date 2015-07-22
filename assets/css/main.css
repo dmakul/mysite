@@ -1010,7 +1010,7 @@
 /* Header */
 
 	#header h1 {
-		font-size: 3.25em;
+		font-size: 4.25em;
 		margin: 0 0 0.55em 0;
 	}
 
@@ -1026,7 +1026,7 @@
 	@media screen and (max-width: 736px) {
 
 		#header h1 {
-			font-size: 5em;
+			font-size: 2em;
 		}
 
 		#header p {
