@@ -1070,6 +1070,7 @@
 		display: -ms-flex;
 		display: flex;
 		position: relative;
+		margin-left: 25%;
 	}
 
 		#signup-form input[type="text"],
@@ -1126,6 +1127,7 @@
 		-ms-transition: opacity 0.5s ease-in-out;
 		transition: opacity 0.5s ease-in-out;
 		bottom: 4em;
+		text-align:  center;
 		color: rgba(255, 255, 255, 0.5);
 		left: 4em;
 		opacity: 0.5;
