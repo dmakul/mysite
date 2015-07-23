@@ -1069,7 +1069,6 @@
 		#signup-form input[type="text"],
 		#signup-form input[type="password"],
 		#signup-form input[type="email"] {
-			margin-left: 28%;
 			width: 18em;
 		}
 
