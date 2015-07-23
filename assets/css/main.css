@@ -1093,6 +1093,7 @@
 				#signup-form input[type="type"],
 				#signup-form input[type="password"],
 				#signup-form input[type="email"] {
+					margin-left: 0;
 					width: 100%;
 				}
 
